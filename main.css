@@ -1,0 +1,17 @@
+body {
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+}
+
+html {
+    text-align: center;
+}
+
+.makeMeRed {
+	color: red;
+}
+
+#makeMeBlue {
+	color: blue;
+}
